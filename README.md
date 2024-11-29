@@ -1,5 +1,5 @@
-# CAIO
-Cracking All In One Version 1.0
+# CAIO 1.0
+Cracking All In One
 
 If you find CAIO useful please consider leaving a star 🙂
 
