@@ -5,12 +5,12 @@ If you would like something added to CAIO let ISellStuff know. If you find CAIO 
 
 # Checkers
 
-**Buffalo Wild Wings | Proxyless**
+1. **Buffalo Wild Wings | Proxyless**
 
 # Tools
 
-**Username and password extractor**
-**Capture Remover**
+1. **Username and password extractor**
+2. **Capture Remover**
 
 # How To Use
 
