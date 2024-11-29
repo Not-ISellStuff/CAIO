@@ -3,12 +3,9 @@ Cracking All In One
 
 If you find CAIO useful please consider leaving a star 🙂
 
-Modules:
+# Checkers
 
-1. Multiple Checkers
-2. Combolist Tools
-3. Hits Manager
-4. Settings
+Buffalo Wild Wings | Proxyless
 
 # How To Use
 
