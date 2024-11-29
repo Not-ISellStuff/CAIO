@@ -1,6 +1,8 @@
 # CAIO
 Tool for account cracking
 
+If you find CAIO useful please consider leaving a star 🙂
+
 Modules:
 
 1. Multiple Checkers
