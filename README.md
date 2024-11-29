@@ -1,11 +1,16 @@
 # CAIO 1.0
 Cracking All In One
 
-If you find CAIO useful please consider leaving a star 🙂
+If you would like something added to CAIO let ISellStuff know. If you find CAIO useful please consider leaving a star 🙂
 
 # Checkers
 
 **Buffalo Wild Wings | Proxyless**
+
+# Tools
+
+**Username and password extractor**
+**Capture Remover**
 
 # How To Use
 
