@@ -1,7 +1,5 @@
 # CAIO
-If you are reading this then CAIO is still in development I just need to add a few things
-
-Tool for account cracking
+Cracking All In One
 
 If you find CAIO useful please consider leaving a star 🙂
 
