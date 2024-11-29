@@ -5,7 +5,7 @@ If you find CAIO useful please consider leaving a star 🙂
 
 # Checkers
 
-** Buffalo Wild Wings | Proxyless **
+**Buffalo Wild Wings | Proxyless**
 
 # How To Use
 
