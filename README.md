@@ -47,4 +47,12 @@ Now you can enable the options to send hits to webhook and notify when finished 
 
 # Images
 
+![image](https://github.com/user-attachments/assets/216da6ca-74a0-44d6-83bd-fe85c545f507)
 
+![image](https://github.com/user-attachments/assets/7ee21c1b-4aaa-4829-ae35-ccfc6b6518dd)
+
+![image](https://github.com/user-attachments/assets/f0b059b9-8a08-43f9-a6a2-479ed6afc7ed)
+
+![image](https://github.com/user-attachments/assets/b2853caf-0d06-4c1b-9eeb-9dbc95fb60cc)
+
+![image](https://github.com/user-attachments/assets/920653d2-d9bc-4014-ac70-5b990be1fb6c)
