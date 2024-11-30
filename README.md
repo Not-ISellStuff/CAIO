@@ -27,11 +27,11 @@ If you want your webhook to notify you when CAIO stops checking or to send hits 
 
 1. Open CAIO
 
-![Screenshot 2024-11-28 182722](https://github.com/user-attachments/assets/a2b1cf2d-87ea-41d4-93f4-020027f90197)
+![Screenshot 2024-11-29 202321](https://github.com/user-attachments/assets/cc235265-ba9a-4e60-b44e-c520ee198329)
 
-2. Go To Settings | Option 4
+2. Go To Settings | Option 2
 
-![Screenshot 2024-11-28 182743](https://github.com/user-attachments/assets/5190bab8-6ec1-40a0-a552-f5a70773bda5)
+![Screenshot 2024-11-29 202344](https://github.com/user-attachments/assets/16bd5181-53ac-4709-88d7-258d352126de)
 
 3. Select Option 1
 
@@ -47,10 +47,4 @@ Now you can enable the options to send hits to webhook and notify when finished 
 
 # Images
 
-![image](https://github.com/user-attachments/assets/0af0d133-9732-4ddc-8eba-b875276a2fb3)
 
-![image](https://github.com/user-attachments/assets/6ccdbc81-e285-459e-9051-2589576564ea)
-
-![image](https://github.com/user-attachments/assets/e987adec-fa55-4342-b70b-2bc67986fac2)
-
-![image](https://github.com/user-attachments/assets/8929d375-dbc0-4e56-9b43-89beeb91d5bb)
