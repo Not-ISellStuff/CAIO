@@ -11,7 +11,8 @@ PLEASE report any bugs you find
 
 1. **More Checkers**
 2. **File Manager | Hits, Combolists**
-3. **Fix any bugs (if any)**
+3. **Bugs Fixed (if any)**
+4. **Proxy Support**
 
 # Checkers
 
