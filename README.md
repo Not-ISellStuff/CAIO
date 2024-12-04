@@ -8,6 +8,9 @@ PLEASE report any bugs you find
 # Checkers
 
 1. **Buffalo Wild Wings | Proxyless**
+2. **Disney+ | Proxyless**
+3. **WWE | Proxyless**
+4. **PlutoTV | Proxyless**
 
 # Tools
 
