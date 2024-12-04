@@ -7,6 +7,8 @@ PLEASE report any bugs you find
 
 # Info
 
+**As you can see there isn't much checkers I will add more dw next update maybe in like 2-4 days or less**
+
 **Next Update | CAIO 1.1:**
 
 1. **More Checkers**
