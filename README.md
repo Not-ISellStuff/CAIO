@@ -5,6 +5,14 @@ If you would like something added to CAIO let ISellStuff know. If you find CAIO 
 
 PLEASE report any bugs you find
 
+# Info
+
+**Next Update | CAIO 1.1:**
+
+1. **More Checkers**
+2. **File Manager | Hits, Combolists**
+3. **Fix any bugs (if any)**
+
 # Checkers
 
 1. **Buffalo Wild Wings | Proxyless**
