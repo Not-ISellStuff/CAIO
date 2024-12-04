@@ -189,8 +189,7 @@ class Checker:
                                     try:
                                         status = rj2['subscriberStatus']
                                         if status == 'subscription.not.found':
-                                            with open('Free/disney.txt', 'a') as f:
-                                                f.write(f"{acc} | Plan --> None")
+                                            func.wfree("disney", f"{acc} | Plan --> False")
                                             print(red + f"[{func.timestamp()}] | [FREE] {acc}")
                                             data.free += 1
                                         elif status == 'CHURNED':
