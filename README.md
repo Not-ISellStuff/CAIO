@@ -33,7 +33,7 @@ PLEASE report any bugs you find
 
 # How To Use
 
-First of all make sure you have Python 3.12.
+First of all make sure you have Python
 
 1. Open Up setup.bat | This will install some libraries
 2. Put your combolist in combo.txt
