@@ -5,7 +5,7 @@ Cracking All In One
 
 If you would like something added to CAIO let ISellStuff know. If you find CAIO useful consider leaving a star 🙂
 
-PLEASE report any bugs you find
+PLEASE report any bugs you find **my discord is isell_termed**
 
 # Info
 
